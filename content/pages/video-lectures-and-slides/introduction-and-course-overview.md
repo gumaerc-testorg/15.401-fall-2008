@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 parent_title: Video Lectures and Slides
+parent_type: CourseSection
 parent_uid: cc3f05d9-f4e4-4ed3-db60-b79712de51f4
 title: Introduction and Course Overview
 uid: 4e09a619-60e1-e86a-14bf-d569cd4ed50e

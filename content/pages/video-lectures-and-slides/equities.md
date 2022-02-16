@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 parent_title: Video Lectures and Slides
+parent_type: CourseSection
 parent_uid: cc3f05d9-f4e4-4ed3-db60-b79712de51f4
 title: Equities
 uid: 4b678424-fbf8-3dec-dfd0-618d83b98f9b

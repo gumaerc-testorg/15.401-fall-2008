@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 parent_title: Video Lectures and Slides
+parent_type: CourseSection
 parent_uid: cc3f05d9-f4e4-4ed3-db60-b79712de51f4
 title: Capital Budgeting
 uid: 329f045a-ce4b-7681-d743-90d050de0c19

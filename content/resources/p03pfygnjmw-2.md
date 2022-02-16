@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-401-finance-theory-i-fall-2008/6479223a1ef70a2df0b5a8b55242d344_P03PfYgNjmw.srt
+file: /media/courses/15-401-finance-theory-i-fall-2008/6479223a1ef70a2df0b5a8b55242d344_P03PfYgNjmw.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 6479223a-1ef7-0a2d-f0b5-a8b55242d344

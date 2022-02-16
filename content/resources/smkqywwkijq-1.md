@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-401-finance-theory-i-fall-2008/26609c50a3942bb727cbc6fdbd649070_sMKQywwkIjQ.pdf
+file: /media/courses/15-401-finance-theory-i-fall-2008/26609c50a3942bb727cbc6fdbd649070_sMKQywwkIjQ.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 26609c50-a394-2bb7-27cb-c6fdbd649070

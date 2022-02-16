@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 parent_title: Video Lectures and Slides
+parent_type: CourseSection
 parent_uid: cc3f05d9-f4e4-4ed3-db60-b79712de51f4
 title: Course Summary
 uid: 0157ef34-81f8-5729-370e-7d234fed9ec3
