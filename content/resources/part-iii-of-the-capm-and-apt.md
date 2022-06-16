@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '1246'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: The CAPM and APT
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '0'
 title: Part III of The CAPM and APT
 uid: e1004811-bfd3-f7dc-0a7a-ded136f3e994
 video_files:

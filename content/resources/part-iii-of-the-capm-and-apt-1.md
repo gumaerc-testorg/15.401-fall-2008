@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4827'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Capital Budgeting
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '1246'
 title: Part I of Capital Budgeting
 uid: 910a4c60-8f40-cd55-0a7e-592a4540f078
 video_files:

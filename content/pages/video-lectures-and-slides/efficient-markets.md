@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page includes lecture slides and three video lectures on behavioral
+  finance and the adaptive markets hypothesis.
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -15,29 +17,29 @@ Video Lectures
 
 ### Efficient Markets I
 
-[Part I of Efficient Markets]({{< baseurl >}}/resources/part-i-of-efficient-markets)
+{{% resource_link 3a1ec3df-a707-1e66-6f3b-eea21b469795 "Part I of Efficient Markets" %}}
 
 **Description:** This video lecture presents an overview of the theory of market efficiency and an example of the Space Shuttle Challenger disaster.
 
 ### Efficient Markets II
 
-[Part II of Efficient Markets]({{< baseurl >}}/resources/part-ii-of-efficient-markets)
+{{% resource_link e8e045a5-2e8f-403d-1379-300d1c9f8b44 "Part II of Efficient Markets" %}}
 
 **Description:** This video lecture explores behavioral finance, why people avoid uncertainty, the link between rationality and human emotion, and human preferences for decision-making. Discussion and simulations frame the adaptive markets hypothesis and its implications.
 
 ### Efficient Markets III
 
-[Part III of Efficient Markets]({{< baseurl >}}/resources/part-iii-of-efficient-markets)
+{{% resource_link 265e3b2e-91b9-1c1e-15e6-a3dadccd52f4 "Part III of Efficient Markets" %}}
 
 **Description:** This video lecture presents the limitations of CAPM and the practical implications of the adaptive markets hypothesis. Applications of the adaptive markets hypothesis are then placed in context of the economic crisis in 2008.
 
 Slides
 ------
 
-[Efficient Market Slides 1–26 (PDF)]({{< baseurl >}}/resources/mit15_401f08_lec21)
+{{% resource_link ce45c661-00cf-852c-b9ac-8ce41f931341 "Efficient Market Slides 1–26 (PDF)" %}}
 
 *   Video for Part I of Efficient Markets covers slides 1–9
 *   Video for Part II of Efficient Markets covers slides 9–23
 *   Video for Part III of Efficient Markets covers slides 20–26
 
-[« Previous]({{< baseurl >}}/pages/video-lectures-and-slides/capital-budgeting) | [Next »]({{< baseurl >}}/pages/video-lectures-and-slides/course-summary)
+{{% resource_link 329f045a-ce4b-7681-d743-90d050de0c19 "« Previous" %}} | {{% resource_link 0157ef34-81f8-5729-370e-7d234fed9ec3 "Next »" %}}

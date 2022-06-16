@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-401-finance-theory-i-fall-2008/2739ca9dd59a204746774363b95a52c9_IwA7nVEwqto.pdf
+file: /courses/15-401-finance-theory-i-fall-2008/2739ca9dd59a204746774363b95a52c9_IwA7nVEwqto.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

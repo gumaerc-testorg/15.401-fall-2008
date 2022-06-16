@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4316'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Fixed-Income Securities
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '2552'
 title: Part I of Fixed-Income Securities
 uid: 4d4da8eb-7739-6771-8ebe-faee5d8bbe71
 video_files:

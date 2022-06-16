@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '2552'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Present Value Relations
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '0'
 title: Part III of Present Value Relations
 uid: 0f4d8b95-c1b0-a727-b4f3-5e4947c7cd64
 video_files:

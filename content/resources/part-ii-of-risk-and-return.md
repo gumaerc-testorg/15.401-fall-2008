@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '2758'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Risk and Return
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '0'
 title: Part II of Risk and Return
 uid: 709beabd-0817-7152-6e60-ece4296cd76a
 video_files:

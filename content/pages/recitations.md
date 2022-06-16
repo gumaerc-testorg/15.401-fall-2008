@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of recitation topics and recitation
+  slides courtesy of course the TA.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ FILES
 Present Value Relations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_401f08_rec01))
+({{% resource_link 7fd4ce05-9d9b-d008-6fc9-b50e3cd99540 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ Present Value Relations
 Fixed-Income Securities
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_401f08_rec02))
+({{% resource_link 74375999-50b0-d45b-fa3a-4c4a3af00a3f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +59,7 @@ Fixed-Income Securities
 Equities / Common Stocks
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_401f08_rec03))
+({{% resource_link 1c18f475-f4a9-236d-9252-1c0e6606f27b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +71,7 @@ Equities / Common Stocks
 Forward and Futures Contracts
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_401f08_rec04))
+({{% resource_link a82f353a-4474-3731-7e37-62d51d572558 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ Forward and Futures Contracts
 Options
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_401f08_rec05))
+({{% resource_link d0734e7f-ec7b-333f-1255-a6dc3dff389c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +95,7 @@ Options
 Portfolio Theory
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.0MB]({{< baseurl >}}/resources/mit15_401f08_rec06))
+({{% resource_link afd942e9-eab1-c6e9-e2da-35d37a978523 "PDF - 2.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +107,7 @@ Portfolio Theory
 Capital Asset Pricing Model
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_401f08_rec07))
+({{% resource_link ecfe2e9d-4bba-8102-07c1-fefcb216a852 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +119,7 @@ Capital Asset Pricing Model
 Capital Budgeting
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_401f08_rec08))
+({{% resource_link 9762eeb6-e5dd-ad7f-b5cf-78b235ccba35 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

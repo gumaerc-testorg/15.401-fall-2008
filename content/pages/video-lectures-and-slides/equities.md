@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page includes lecture notes and a video lecture on equities and
+  how to price equities.
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -15,17 +17,17 @@ Video Lecture
 
 ### Equities
 
-[Equities]({{< baseurl >}}/resources/equities)
+{{% resource_link 9875f776-bfc2-848a-fe96-663b701209f6 "Equities" %}}
 
 **Description:** This video lecture provides an overview of equities and models for pricing equities, with a focus on using the dividend discount model.
 
 Slides
 ------
 
-[Equities Slides 1–23 (PDF)]({{< baseurl >}}/resources/mit15_401f08_lec07)
+{{% resource_link 1aea40b0-63ca-d5a3-35e9-80ecf30d84b7 "Equities Slides 1–23 (PDF)" %}}
 
 *   Video for Equities covers slides 1–9
 
 Please note that slides 10–23 are not covered in the video lectures but can be reviewed independently. These slides present examples involving the dividend discount model, earnings-per-share and price-earnings ratios, and growth stocks.
 
-[« Previous]({{< baseurl >}}/pages/video-lectures-and-slides/fixed-income-securities) | [Next »]({{< baseurl >}}/pages/video-lectures-and-slides/forward-and-futures-contracts)
+{{% resource_link e36e4581-7f0e-fb9e-6930-35ba1f600e6d "« Previous" %}} | {{% resource_link a03a6fe8-0962-ea97-5478-117710065928 "Next »" %}}

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '3124'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Portfolio Theory
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '0'
 title: Part III of Portfolio Theory
 uid: 1b85dfef-b52a-2a91-920e-a98584a224c2
 video_files:

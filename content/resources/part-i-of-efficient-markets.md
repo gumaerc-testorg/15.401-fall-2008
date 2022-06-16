@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4789'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Efficient Markets
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '4165'
 title: Part I of Efficient Markets
 uid: 3a1ec3df-a707-1e66-6f3b-eea21b469795
 video_files:

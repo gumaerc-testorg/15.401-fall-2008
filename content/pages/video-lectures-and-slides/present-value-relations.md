@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page includes lecture slides and three video lectures on the valuation
+  of cash flows, as well as calculations involving net present value.
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -15,29 +17,29 @@ Video Lectures
 
 ### Present Value Relations I
 
-[Part I of Present Value Relations]({{< baseurl >}}/resources/part-i-of-present-value-relations)
+{{% resource_link b56e1433-8527-3758-8a1d-91f0eb2661cd "Part I of Present Value Relations" %}}
 
 **Description:** This video lecture presents the definition of an asset as a sequence of current and future cash flows, and the implications of that definition. Valuation of cash flows is presented in the context of time, certainty, and the present value operator.
 
 ### Present Value Relations II
 
-[Part II of Present Value Relations]({{< baseurl >}}/resources/part-ii-of-present-value-relations)
+{{% resource_link a35f17a4-0698-b989-4d63-3d0c15886ef4 "Part II of Present Value Relations" %}}
 
 **Description:** This video lecture covers examples on calculating net present value, comparing perpetuities and annuities, and conventions for compounding.
 
 ### Present Value Relations III
 
-[Part III of Present Value Relations]({{< baseurl >}}/resources/part-iii-of-present-value-relations)
+{{% resource_link 0f4d8b95-c1b0-a727-b4f3-5e4947c7cd64 "Part III of Present Value Relations" %}}
 
 **Description:** This video lecture starts with a discussion of leverage ratio with an example from Lehman Brothers. The video lecture then continues to cover the last portion of present value relations, including inflation and how to calculate real and nominal rate of return.
 
 Slides
 ------
 
-[Present Value Relations Slides 1–36 (PDF)]({{< baseurl >}}/resources/mit15_401f08_lec02)
+{{% resource_link 73c95059-e657-c8a7-acb0-42ea33a21940 "Present Value Relations Slides 1–36 (PDF)" %}}
 
 *   Video for Part I of Present Value Relations covers slides 1–16
 *   Video for Part II of Present Value Relations covers slides 17–29
 *   Video for Part III of Present Value Relations covers slides 30–36
 
-[« Previous]({{< baseurl >}}/pages/video-lectures-and-slides/introduction-and-course-overview) | [Next »]({{< baseurl >}}/pages/video-lectures-and-slides/fixed-income-securities)
+{{% resource_link 4e09a619-60e1-e86a-14bf-d569cd4ed50e "« Previous" %}} | {{% resource_link e36e4581-7f0e-fb9e-6930-35ba1f600e6d "Next »" %}}

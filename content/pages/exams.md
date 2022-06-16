@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides review slides, sample exams, and sample solutions
+  for the midterm and final exams of the course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -34,7 +36,7 @@ FILES
 Review slides
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_401f08_review_mid))
+({{% resource_link ebd2475a-5012-fed0-8796-5c776cef84d0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ Review slides
 Sample exam
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_401f08_midterm))
+({{% resource_link d06836b6-50ba-4d4b-3e8e-1d6e2ed0b43f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +54,7 @@ Sample exam
 Sample solutions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_401f08_midterm_sol))
+({{% resource_link 0c0d8c56-431c-6972-95be-a540e555336b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +69,7 @@ Sample solutions
 Review slides
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_401f08_review_fin))
+({{% resource_link d28223e0-ac88-22df-9538-f33b1542881e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +78,7 @@ Review slides
 Sample exam
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_401f08_final))
+({{% resource_link f8870d5f-537f-04e7-5e7e-cc243416e02a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +87,7 @@ Sample exam
 Sample solutions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_401f08_final_sol))
+({{% resource_link 984300de-6e68-3683-f092-4ff450cc51ee "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

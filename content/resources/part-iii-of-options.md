@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '3198'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Options
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '0'
 title: Part III of Options
 uid: 875004db-65a2-c307-ece6-56d2ed5e57ae
 video_files:
