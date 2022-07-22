@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the course textbook, additional
+  readings on finance, and a link to The Wall Street Journal website.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 364fddf0-2a0b-c7c2-f81c-d1d8bb22e160
 ---

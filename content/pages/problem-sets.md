@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains problem sets and solutions (added in December 2019).
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Problem Sets
 uid: c49086b5-3931-2739-2fad-42b6ea85a105
 ---
@@ -9,7 +13,7 @@ Due to popular demand by OCW users, Professor Lo compiled the following problem 
 Problem Sets 1–3
 ----------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Finance Theory I: Problem Sets 1–3 (PDF)]({{< baseurl >}}/resources/mit15_401f08_problem_sets)
+{{% resource_link 36b761fc-1861-5eee-e341-9cd2407dadc4 "Finance Theory I: Problem Sets 1–3 (PDF)" %}}
 
 ### Contents
 
