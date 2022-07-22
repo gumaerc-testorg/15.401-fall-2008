@@ -4,6 +4,7 @@ description: ''
 file: /courses/15-401-finance-theory-i-fall-2008/e7945655a7e4b5c444cc6da0ab0c4168_hyc8h5T76BE.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
