@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-401-finance-theory-i-fall-2008/86cab1d4f1fa5cfa9a582a9157501d27_hyc8h5T76BE.vtt
+file_size: 108801
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
