@@ -31,6 +31,6 @@ Bodie, Zvi, Alex Kane, and Alan Marcus. _Investments_. 8th ed. New York, NY: McG
 
 Bodie, Kane, and Marcus focus exclusively on capital markets. They provide a more rigorous and thorough analysis of investments than Brealey, Myers, and Allen.
 
-{{% resource_link "3ceaa031-da16-41ce-9622-c40bd11881a9" "_The Wall Street Journal_" %}}
+[_The Wall Street Journal_](http://online.wsj.com/home-page)
 
 Often called the diary of financial markets, the Journal is still the leading business publication in the world and familiarity with its various columns, sections, and op-ed pieces is a must for any serious finance professional.

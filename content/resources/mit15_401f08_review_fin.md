@@ -4,6 +4,7 @@ description: This resource contains questions and answers related to bond maturi
   market price, growth stocks, commercial airline, american call option, fixed income,
   CAPM, common stock, forwards and futures, capital budgeting, and portfolio theory.
 file: /courses/15-401-finance-theory-i-fall-2008/d28223e0ac8822df9538f33b1542881e_MIT15_401F08_review_fin.pdf
+file_size: 985591
 file_type: application/pdf
 learning_resource_types:
 - Exams

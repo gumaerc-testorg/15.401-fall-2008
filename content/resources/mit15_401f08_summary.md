@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains the slides for the course summary. '
 file: /courses/15-401-finance-theory-i-fall-2008/55322b0a932baa9a97c5603eeab0d766_MIT15_401F08_summary.pdf
+file_size: 302086
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
