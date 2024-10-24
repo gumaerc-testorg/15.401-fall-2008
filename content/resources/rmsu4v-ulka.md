@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-401-finance-theory-i-fall-2008/2249606f88bc9c59fb35ded726ef095d_rMsu4v-UlkA.srt
+file: /ol-ocw-studio-app/courses/15-401-finance-theory-i-fall-2008/2249606f88bc9c59fb35ded726ef095d_rMsu4v-UlkA.srt
 file_size: 95240
 file_type: application/x-subrip
 learning_resource_types: []
