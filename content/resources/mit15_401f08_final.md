@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains 10 questions related to bond maturing, annual
   membership, US treasury bonds, and fiber optic switches.
 draft: false
-file: /courses/15-401-finance-theory-i-fall-2008/f8870d5f537f04e75e7ecc243416e02a_MIT15_401F08_final.pdf
+file: /ol-ocw-studio-app/courses/15-401-finance-theory-i-fall-2008/f8870d5f537f04e75e7ecc243416e02a_MIT15_401F08_final.pdf
 file_size: 140492
 file_type: application/pdf
 image_metadata:
