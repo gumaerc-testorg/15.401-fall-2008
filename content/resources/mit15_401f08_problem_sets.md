@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/15-401-finance-theory-i-fall-2008/36b761fc18615eeee3419cd2407dadc4_MIT15_401F08_Problem_Sets.pdf
+file: /ol-ocw-studio-app/courses/15-401-finance-theory-i-fall-2008/36b761fc18615eeee3419cd2407dadc4_MIT15_401F08_Problem_Sets.pdf
 file_size: 365953
 file_type: application/pdf
 image_metadata:
